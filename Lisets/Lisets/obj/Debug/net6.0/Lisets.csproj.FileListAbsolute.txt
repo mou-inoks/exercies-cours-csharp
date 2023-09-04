@@ -1,0 +1,15 @@
+C:\Users\Salim\source\repos\Lisets\Lisets\bin\Debug\net6.0\Lisets.exe
+C:\Users\Salim\source\repos\Lisets\Lisets\bin\Debug\net6.0\Lisets.deps.json
+C:\Users\Salim\source\repos\Lisets\Lisets\bin\Debug\net6.0\Lisets.runtimeconfig.json
+C:\Users\Salim\source\repos\Lisets\Lisets\bin\Debug\net6.0\Lisets.dll
+C:\Users\Salim\source\repos\Lisets\Lisets\bin\Debug\net6.0\Lisets.pdb
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.csproj.AssemblyReference.cache
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.AssemblyInfoInputs.cache
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.AssemblyInfo.cs
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.dll
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\refint\Lisets.dll
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.pdb
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\Lisets.genruntimeconfig.cache
+C:\Users\Salim\source\repos\Lisets\Lisets\obj\Debug\net6.0\ref\Lisets.dll

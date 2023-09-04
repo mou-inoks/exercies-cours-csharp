@@ -1,0 +1,15 @@
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\bin\Debug\net6.0\ListeDeux.exe
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\bin\Debug\net6.0\ListeDeux.deps.json
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\bin\Debug\net6.0\ListeDeux.runtimeconfig.json
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\bin\Debug\net6.0\ListeDeux.dll
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\bin\Debug\net6.0\ListeDeux.pdb
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.csproj.AssemblyReference.cache
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.AssemblyInfoInputs.cache
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.AssemblyInfo.cs
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.dll
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\refint\ListeDeux.dll
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.pdb
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ListeDeux.genruntimeconfig.cache
+C:\Users\Salim\source\repos\ListeDeux\ListeDeux\obj\Debug\net6.0\ref\ListeDeux.dll

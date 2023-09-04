@@ -1,0 +1,15 @@
+C:\Users\Salim\source\repos\Anonyme\Anonyme\bin\Debug\net6.0\Anonyme.exe
+C:\Users\Salim\source\repos\Anonyme\Anonyme\bin\Debug\net6.0\Anonyme.deps.json
+C:\Users\Salim\source\repos\Anonyme\Anonyme\bin\Debug\net6.0\Anonyme.runtimeconfig.json
+C:\Users\Salim\source\repos\Anonyme\Anonyme\bin\Debug\net6.0\Anonyme.dll
+C:\Users\Salim\source\repos\Anonyme\Anonyme\bin\Debug\net6.0\Anonyme.pdb
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.csproj.AssemblyReference.cache
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.AssemblyInfoInputs.cache
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.AssemblyInfo.cs
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.dll
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\refint\Anonyme.dll
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.pdb
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\Anonyme.genruntimeconfig.cache
+C:\Users\Salim\source\repos\Anonyme\Anonyme\obj\Debug\net6.0\ref\Anonyme.dll

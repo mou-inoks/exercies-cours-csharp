@@ -1,0 +1,15 @@
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\bin\Debug\net6.0\Citoyennes.exe
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\bin\Debug\net6.0\Citoyennes.deps.json
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\bin\Debug\net6.0\Citoyennes.runtimeconfig.json
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\bin\Debug\net6.0\Citoyennes.dll
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\bin\Debug\net6.0\Citoyennes.pdb
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.csproj.AssemblyReference.cache
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.AssemblyInfoInputs.cache
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.AssemblyInfo.cs
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.csproj.CoreCompileInputs.cache
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.dll
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\refint\Citoyennes.dll
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.pdb
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\Citoyennes.genruntimeconfig.cache
+C:\Users\Salim\source\repos\Citoyennes\Citoyennes\obj\Debug\net6.0\ref\Citoyennes.dll
