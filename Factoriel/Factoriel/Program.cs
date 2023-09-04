@@ -34,3 +34,20 @@ ulong Recursive(ulong n)
 Console.WriteLine(Recursive(30));
 
 
+int fct1(int n)
+{
+    if(n == 1)
+        return n * n;
+    else
+    {
+        return n *= (n - 1);
+    }
+}
+
+Console.WriteLine(fct1(5));
+
+int fct2(int n)
+{
+    if( n == 1)
+        return 
+}
