@@ -1,0 +1,15 @@
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/bin/Debug/net6.0/Recursive
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/bin/Debug/net6.0/Recursive.deps.json
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/bin/Debug/net6.0/Recursive.runtimeconfig.json
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/bin/Debug/net6.0/Recursive.dll
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/bin/Debug/net6.0/Recursive.pdb
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.csproj.AssemblyReference.cache
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.AssemblyInfoInputs.cache
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.AssemblyInfo.cs
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.csproj.CoreCompileInputs.cache
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.dll
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/refint/Recursive.dll
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.pdb
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/Recursive.genruntimeconfig.cache
+/Users/salim/Desktop/exercies-cours-csharp/Recursive/Recursive/obj/Debug/net6.0/ref/Recursive.dll

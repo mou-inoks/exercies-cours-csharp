@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C8943730-9E3B-4D93-8F00-17E29887F1FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Recursive/Program.cs">
+    <Files>
+      <File FileName="Recursive/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Recursive" expanded="True">
+            <Node name="Recursive" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Recursive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
