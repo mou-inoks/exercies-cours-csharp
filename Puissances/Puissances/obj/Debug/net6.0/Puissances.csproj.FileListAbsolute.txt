@@ -1,0 +1,15 @@
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.csproj.AssemblyReference.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.AssemblyInfoInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.AssemblyInfo.cs
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\bin\Debug\net6.0\Puissances.exe
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\bin\Debug\net6.0\Puissances.deps.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\bin\Debug\net6.0\Puissances.runtimeconfig.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\bin\Debug\net6.0\Puissances.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\bin\Debug\net6.0\Puissances.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\refint\Puissances.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\Puissances.genruntimeconfig.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\Puissances\Puissances\obj\Debug\net6.0\ref\Puissances.dll
