@@ -1,0 +1,15 @@
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\bin\Debug\net6.0\OrdreSuperieur.exe
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\bin\Debug\net6.0\OrdreSuperieur.deps.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\bin\Debug\net6.0\OrdreSuperieur.runtimeconfig.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\bin\Debug\net6.0\OrdreSuperieur.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\bin\Debug\net6.0\OrdreSuperieur.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.csproj.AssemblyReference.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.AssemblyInfoInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.AssemblyInfo.cs
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\refint\OrdreSuperieur.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\OrdreSuperieur.genruntimeconfig.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\OrdreSuperieur\OrdreSuperieur\obj\Debug\net6.0\ref\OrdreSuperieur.dll
