@@ -1,0 +1,15 @@
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\bin\Debug\net6.0\SommeExerciceDeux.exe
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\bin\Debug\net6.0\SommeExerciceDeux.deps.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\bin\Debug\net6.0\SommeExerciceDeux.runtimeconfig.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\bin\Debug\net6.0\SommeExerciceDeux.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\bin\Debug\net6.0\SommeExerciceDeux.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.csproj.AssemblyReference.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.AssemblyInfoInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.AssemblyInfo.cs
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\refint\SommeExerciceDeux.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\SommeExerciceDeux.genruntimeconfig.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\SommeExerciceDeux\SommeExerciceDeux\obj\Debug\net6.0\ref\SommeExerciceDeux.dll
