@@ -1,0 +1,15 @@
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\bin\Debug\net6.0\RecursiveDeux.exe
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\bin\Debug\net6.0\RecursiveDeux.deps.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\bin\Debug\net6.0\RecursiveDeux.runtimeconfig.json
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\bin\Debug\net6.0\RecursiveDeux.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\bin\Debug\net6.0\RecursiveDeux.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.csproj.AssemblyReference.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.AssemblyInfoInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.AssemblyInfo.cs
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\refint\RecursiveDeux.dll
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.pdb
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\RecursiveDeux.genruntimeconfig.cache
+C:\Users\Salim\Desktop\exercies-cours-csharp\RecursiveDeux\RecursiveDeux\obj\Debug\net6.0\ref\RecursiveDeux.dll
