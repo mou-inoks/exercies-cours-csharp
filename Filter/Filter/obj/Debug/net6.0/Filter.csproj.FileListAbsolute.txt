@@ -1,0 +1,15 @@
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\bin\Debug\net6.0\Filter.exe
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\bin\Debug\net6.0\Filter.deps.json
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\bin\Debug\net6.0\Filter.runtimeconfig.json
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\bin\Debug\net6.0\Filter.dll
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\bin\Debug\net6.0\Filter.pdb
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.csproj.AssemblyReference.cache
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.AssemblyInfoInputs.cache
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.AssemblyInfo.cs
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.csproj.CoreCompileInputs.cache
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.dll
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\refint\Filter.dll
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.pdb
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\Filter.genruntimeconfig.cache
+C:\Users\MOU\Desktop\exercies-cours-csharp\Filter\Filter\obj\Debug\net6.0\ref\Filter.dll
