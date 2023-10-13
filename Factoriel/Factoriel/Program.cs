@@ -17,6 +17,14 @@ static ulong CalculerFactorielle(ulong n)
     }
 }
 
+//Somme chiffre d'un nombre 
+
+static int SommeDesChiffres(int number){
+    if(number < 10)
+        return number;
+    return number & 10 + SommeDesChiffres(number / 10);
+}
+
 ulong n = 50;
 ulong resultat = CalculerFactorielle(n);
 Console.WriteLine($"La factorielle de {n} est {resultat}");
