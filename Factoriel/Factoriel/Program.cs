@@ -49,5 +49,9 @@ Console.WriteLine(fct1(5));
 int fct2(int n)
 {
     if( n == 1)
-        return 
+        return 1; 
+    else
+        return n *= fct2(n -1);
 }
+
+Console.WriteLine(fct2(5));

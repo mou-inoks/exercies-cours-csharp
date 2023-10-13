@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0BOCAEm9FtQozMxuVx/1mX1ONtNgpoACeVDWvWF2rD/4TtfG1X2fu/75uF3EIKSCnvLPw8d0FEJGappu3/la/Q==",
+  "dgSpecHash": "ej9CstkppIfqKXzUMDQ47qHo5C464rnpSbxM4xitWu3cJob3OPXf1G59RL4Al9Fy27Zo0TGK2YrqWDadt+RGRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Salim\\Desktop\\exercices-cours\\Factoriel\\Factoriel\\Factoriel.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MOU\\Desktop\\exercies-cours-csharp\\Factoriel\\Factoriel\\Factoriel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOU\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\MOU\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\MOU\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\MOU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
