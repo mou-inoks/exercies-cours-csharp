@@ -21,18 +21,20 @@ voitures.ForEach(x => Console.WriteLine(x.ToString()));
 
 
 
-class Voiture {
- public string Marque {get;set;}
- public string Model {get;set;}
- public int Puissance {get;set;}
+class Voiture
+{
+ public string Marque { get; set; }
+ public string Model { get; set; }
+ public int Puissance { get; set; }
 
- public Voiture(string marque, string model, int puissance){
-  this.Marque = marque; 
-  this.Model = model; 
+ public Voiture(string marque, string model, int puissance)
+ {
+  this.Marque = marque;
+  this.Model = model;
   this.Puissance = puissance;
  }
-    public override string ToString()
-    {
-        return $"Marque: {Marque} - Model: {Model} - Puissance: {Puissance}";
-    }
+ public override string ToString()
+ {
+  return $"Marque: {Marque} - Model: {Model} - Puissance: {Puissance}";
+ }
 }
